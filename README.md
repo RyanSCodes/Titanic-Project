@@ -2,8 +2,8 @@
 
 VARIABLE DESCRIPTIONS:
 
-* survival        Survival
-                (0 = No; 1 = Yes)
+* survival        Survival  
+                (0 = No; 1 = Yes)  
 *pclass          Passenger Class
                 (1 = 1st; 2 = 2nd; 3 = 3rd)
 *name            Name
