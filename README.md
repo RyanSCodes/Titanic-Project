@@ -38,3 +38,12 @@ nephews/nieces, aunts/uncles, and in-laws.  Some children travelled
 only with a nanny, therefore parch=0 for them.  As well, some  
 travelled with very close friends or neighbors in a village, however,  
 the definitions do not support such relations.
+
+## Files
+
+* Titanic-Project.ipynb - Data visualisation and trends
+* Titanic-Project-ML.ipynb - Comparision of machine learning algorithms
+* Titanic-Project-Naive-Bayes-Model.ipynb - NB test set prediction 
+* Titanic-Project-Random-Forests-Model.ipynb - RF test set prediction
+* Titanic-Project-SVM-Model.ipynb - SVM test set prediction
+* Titanic_pred_*.csv - Passenger ID and predictions in csv format
